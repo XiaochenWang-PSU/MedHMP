@@ -15,3 +15,12 @@ More details will come soon.
 
 If you find any source provided in this repo or our paper are useful, please cite our paper using this BibTex:
 
+```bibtex
+@inproceedings{wang2023hierarchical,
+  title={Hierarchical Pretraining on Multimodal Electronic Health Records},
+  author={Wang, Xiaochen and Luo, Junyu and Wang, Jiaqi and Yin, Ziyi and Cui, Suhan and Zhong, Yuan and Wang, Yaqing and Ma, Fenglong},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={2839--2852},
+  year={2023}
+}
+```
