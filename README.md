@@ -9,7 +9,6 @@ The original datasets of MIMIC-III and MIMIC-IV can be found in https://physione
 
 Codes for data preprocessing can be accessed at https://github.com/MLD3/FIDDLE-experiments/tree/master/mimic3_experiments. 
 
-More details will come soon.
 
 ## Acknowledgement
 
